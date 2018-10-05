@@ -81,7 +81,7 @@ public class MainActivity extends AppCompatActivity{
     }
 
     //I put the summary in a menu because I made a sliding tab view for it
-    // but it broke everything so I decided an afterthought of a feature
+    // but it broke everything so I decided a small feature
     // like this deserved to be relegated to what in most apps is used for
     // settings of app info.
     @Override
