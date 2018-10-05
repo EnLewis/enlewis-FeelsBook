@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SummaryActivity">
+    <TableRow>
+    <TextView
+        android:id="@+id/summary_title"
+        android:layout_width="match_parent"
+        android:layout_height="21dp"
+        android:text="@string/summary_name"/>
+    </TableRow>
+
+    <TableRow>
+    <TextView
+        android:id="@+id/love_title"
+        android:layout_width="match_parent"
+        android:layout_height="21dp"
+        android:text="@string/love_count_title"/>
+
+        <TextView
+            android:id="@+id/love_count"
+            android:layout_width="match_parent"
+            android:layout_height="21dp"
+            android:layout_toEndOf="@id/love_title"
+            android:layout_marginLeft="10dp"
+            android:text="0">
+
+        </TextView>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:id="@+id/joy_title"
+            android:layout_width="match_parent"
+            android:layout_height="21dp"
+            android:text="@string/joy_count_title"/>
+
+        <TextView
+            android:id="@+id/joy_count"
+            android:layout_width="match_parent"
+            android:layout_height="21dp"
+            android:layout_toEndOf="@id/joy_title"
+            android:layout_marginLeft="10dp"
+            android:text="0">
+
+        </TextView>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:id="@+id/surprise_title"
+            android:layout_width="match_parent"
+            android:layout_height="21dp"
+            android:text="@string/surprise_count_title"/>
+
+        <TextView
+            android:id="@+id/surprise_count"
+            android:layout_width="match_parent"
+            android:layout_height="21dp"
+            android:layout_toEndOf="@id/surprise_title"
+            android:layout_marginLeft="10dp"
+            android:text="0">
+
+        </TextView>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:id="@+id/sadness_title"
+            android:layout_width="match_parent"
+            android:layout_height="21dp"
+            android:text="@string/sadness_count_title"/>
+
+        <TextView
+            android:id="@+id/sadness_count"
+            android:layout_width="match_parent"
+            android:layout_height="21dp"
+            android:layout_toEndOf="@id/sadness_title"
+            android:layout_marginLeft="10dp"
+            android:text="0">
+
+        </TextView>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:id="@+id/anger_title"
+            android:layout_width="match_parent"
+            android:layout_height="21dp"
+            android:text="@string/anger_count_title"/>
+
+        <TextView
+            android:id="@+id/anger_count"
+            android:layout_width="match_parent"
+            android:layout_height="21dp"
+            android:layout_toEndOf="@id/anger_title"
+            android:layout_marginLeft="10dp"
+            android:text="0">
+
+        </TextView>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:id="@+id/fear_title"
+            android:layout_width="match_parent"
+            android:layout_height="21dp"
+            android:text="@string/fear_count_title"/>
+
+        <TextView
+            android:id="@+id/fear_count"
+            android:layout_width="match_parent"
+            android:layout_height="21dp"
+            android:layout_toEndOf="@id/fear_title"
+            android:layout_marginLeft="10dp"
+            android:text="0">
+
+        </TextView>
+    </TableRow>
+
+
+</TableLayout>

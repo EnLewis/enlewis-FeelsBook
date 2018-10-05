@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">enlewis-FeelsBook</string>
+    <string name="summary_name">Summary</string>
+    <string-array name="emote_array">
+        <item>love</item>
+        <item>joy</item>
+        <item>surprise</item>
+        <item>sadness</item>
+        <item>anger</item>
+        <item>fear</item>
+    </string-array>
+    <string name="title_activity_edit_emotion">EditEmotionActivity</string>
+    <string name="love_count_title">Love Count: </string>
+    <string name="joy_count_title">Joy Count: </string>
+    <string name="surprise_count_title">Surprise Count: </string>
+    <string name="sadness_count_title">Sadness Count: </string>
+    <string name="anger_count_title">Anger Count: </string>
+    <string name="fear_count_title">Fear Count: </string>
+</resources>
