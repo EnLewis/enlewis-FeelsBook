@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8d3a6f59a1881b3b456dbb6348898115\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2b5a1af1a88dde3e66600a697bcd9979\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\08e264329f5d2ff7eb4a3129c291fd9e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\63450bafb73ea8bb0d1a42527b876f72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8154e383266c6637e4a60d3ba7c4594b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\da72ff79da15c39a8c4055540f9fb858\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ccbd9fde958e8285cbd4809c8feaf18e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c64e1f332b953787ba7e7760f260667a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\53e5715a140441a23e4a6ea5865a0f54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\92add3adaf03761191fb6c980e79b3cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cf20b9b40db8fad31568d19f44c44c38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9bdea4cbc91bcf897d0f260ab71723fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ae387a91b0e1a34fd4d255746cd1f52e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\64a324b4eb6eea6a30fea85dea86bee4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ace8976785530094feee2015060f93bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\fab6048bdd885a67421a5927863f1524\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\27e03053352e7650f0cbc06e2429bab9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1d00c13ec75e8ca6963e4c4377f9019a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a310c3e0af291e1d6edb41ef07da17eb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a3225e43e1dcd73be659923acde66ec8\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\100af82b7751879ebee108839a56687c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\dca658071f2988f3d8ccad284d191a5e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2dc2e7fe9bbcd3dff2b3c3efaa53afe6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e44c4027bb0e3d5ed4fb17f5f8dda47a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3b8612a08efd070184cf55dc1b8461ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\75af4b968a20ef9e3225538f9b42c55f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9ac9b260c81ae6099f5573212022c162\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\89a4b69d6b5cebdd96d2888e8f07a6f9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\51094e51a40a70e43426dcf29a9a4b46\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\258788ca82ff035c5e579764387f2f2d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6ae81bbd2b3904147a45c47261009b81\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8d3a6f59a1881b3b456dbb6348898115\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8d3a6f59a1881b3b456dbb6348898115\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\08e264329f5d2ff7eb4a3129c291fd9e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\08e264329f5d2ff7eb4a3129c291fd9e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a310c3e0af291e1d6edb41ef07da17eb\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a310c3e0af291e1d6edb41ef07da17eb\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a3225e43e1dcd73be659923acde66ec8\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a3225e43e1dcd73be659923acde66ec8\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a310c3e0af291e1d6edb41ef07da17eb\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.erikn.enlewis_feelsbook.MainActivity
+ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:12:19-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.erikn.enlewis_feelsbook.LogEmotionActivity
+ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:19:9-91
+	android:name
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:19:19-88
+activity#com.example.erikn.enlewis_feelsbook.EditEmotionActivity
+ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:20:9-23:59
+	android:label
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:22:13-64
+	android:theme
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:21:13-48
+activity#com.example.erikn.enlewis_feelsbook.SummaryActivity
+ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:24:9-97
+	android:name
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml:24:19-85
+uses-sdk
+INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml
+INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8d3a6f59a1881b3b456dbb6348898115\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8d3a6f59a1881b3b456dbb6348898115\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2b5a1af1a88dde3e66600a697bcd9979\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2b5a1af1a88dde3e66600a697bcd9979\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\08e264329f5d2ff7eb4a3129c291fd9e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\08e264329f5d2ff7eb4a3129c291fd9e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\63450bafb73ea8bb0d1a42527b876f72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\63450bafb73ea8bb0d1a42527b876f72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8154e383266c6637e4a60d3ba7c4594b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8154e383266c6637e4a60d3ba7c4594b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\da72ff79da15c39a8c4055540f9fb858\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\da72ff79da15c39a8c4055540f9fb858\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ccbd9fde958e8285cbd4809c8feaf18e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ccbd9fde958e8285cbd4809c8feaf18e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c64e1f332b953787ba7e7760f260667a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c64e1f332b953787ba7e7760f260667a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\53e5715a140441a23e4a6ea5865a0f54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\53e5715a140441a23e4a6ea5865a0f54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\92add3adaf03761191fb6c980e79b3cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\92add3adaf03761191fb6c980e79b3cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cf20b9b40db8fad31568d19f44c44c38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cf20b9b40db8fad31568d19f44c44c38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9bdea4cbc91bcf897d0f260ab71723fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9bdea4cbc91bcf897d0f260ab71723fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ae387a91b0e1a34fd4d255746cd1f52e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ae387a91b0e1a34fd4d255746cd1f52e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\64a324b4eb6eea6a30fea85dea86bee4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\64a324b4eb6eea6a30fea85dea86bee4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ace8976785530094feee2015060f93bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ace8976785530094feee2015060f93bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\fab6048bdd885a67421a5927863f1524\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\fab6048bdd885a67421a5927863f1524\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\27e03053352e7650f0cbc06e2429bab9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\27e03053352e7650f0cbc06e2429bab9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1d00c13ec75e8ca6963e4c4377f9019a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1d00c13ec75e8ca6963e4c4377f9019a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a310c3e0af291e1d6edb41ef07da17eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a310c3e0af291e1d6edb41ef07da17eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a3225e43e1dcd73be659923acde66ec8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a3225e43e1dcd73be659923acde66ec8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\100af82b7751879ebee108839a56687c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\100af82b7751879ebee108839a56687c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\dca658071f2988f3d8ccad284d191a5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\dca658071f2988f3d8ccad284d191a5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2dc2e7fe9bbcd3dff2b3c3efaa53afe6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2dc2e7fe9bbcd3dff2b3c3efaa53afe6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e44c4027bb0e3d5ed4fb17f5f8dda47a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e44c4027bb0e3d5ed4fb17f5f8dda47a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3b8612a08efd070184cf55dc1b8461ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3b8612a08efd070184cf55dc1b8461ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\75af4b968a20ef9e3225538f9b42c55f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\75af4b968a20ef9e3225538f9b42c55f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9ac9b260c81ae6099f5573212022c162\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9ac9b260c81ae6099f5573212022c162\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\89a4b69d6b5cebdd96d2888e8f07a6f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\89a4b69d6b5cebdd96d2888e8f07a6f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\51094e51a40a70e43426dcf29a9a4b46\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\51094e51a40a70e43426dcf29a9a4b46\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\258788ca82ff035c5e579764387f2f2d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\258788ca82ff035c5e579764387f2f2d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6ae81bbd2b3904147a45c47261009b81\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Erik Lewis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6ae81bbd2b3904147a45c47261009b81\AndroidManifest.xml:20:5-44
+INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml
+INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\301\enlewis-FeelsBook\enlewis-FeelsBook\enlewis-FeelsBook\app\src\main\AndroidManifest.xml
